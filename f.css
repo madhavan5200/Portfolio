@@ -6,18 +6,23 @@
 }
  .item1 {
 color: white;
-padding-left: 700px;
 font-size: larger;
-padding-top: 90px;
-box-shadow: 15px 15px;
-
+text-transform:uppercase;
+padding-left: 100px;
 } 
+.item2{
+    color: white;
+    font-size:large;
+    text-decoration-line: line-through;
+    justify-content:flex-end;
+}
 
 .img{
     padding-left: 350px;
     padding-top: 30px;
     border-radius: 100px;
-
+    display: flex;
+    border-radius: 50%;
 }
 
 
